@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XI/8EQ0DTYTEB1KRL35KE20JB.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/YR/Y2QH0D8YS6L9MR8DSG4HXH.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/ScifiWeapons/Material/M_Emissive_Bullet.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/Target/SM_Target_SM_Target/SM_Target_GeometryCollection.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/SV/C22P72KBA5Z0YVF5R3W2M4.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/P1/NT562SUEVAP6LB60JVGCMG.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/JK/N8QASPLBGAJCF0VUTE5YP3.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/5T/O7HN3368KPPAU7UDWQBXKB.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/ZQ/QQQ7ZOX9RKKR7GQTN88S86.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/CJ/RD0OUGY8B1NTJUH5H0FZDR.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/04/I23FOHRNBS0NW62V2EFNTK.uasset",
+				"C:/Users/Htet.s/Downloads/422c18-056a-018-6a2c-f24761f452e2_TargetGameAssets (1)/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7U/YH3F6OWHVG1Z7FP0Z0ZR7U.uasset"
+			]
+		}
+	]
+}
